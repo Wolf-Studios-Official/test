@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "its a test",
+  "main": "index.js",
+  "authors": {
+    "name": "flash",
+    "email": "tiagolobotwitch@gmail.com"
+  },
+  "repository": "Wolf-Studios-Official/test/test",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
